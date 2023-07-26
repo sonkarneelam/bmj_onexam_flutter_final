@@ -110,6 +110,18 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "http",
+      "rootUri": "file:///Users/neelamsonkar/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/neelamsonkar/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "image",
       "rootUri": "file:///Users/neelamsonkar/.pub-cache/hosted/pub.dev/image-4.0.17",
       "packageUri": "lib/",
@@ -248,7 +260,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-18T09:42:54.183454Z",
+  "generated": "2023-07-26T10:21:21.340501Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
